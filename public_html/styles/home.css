@@ -1,34 +1,3 @@
-/* A cor poderá ser repetida em formato de variável */
-:root{
-    --title-color: #322153;
-    --primary-color: #34cb79;
-}
-
-/* Aplica em todos os elementos */
-*{
-    margin: 0;
-    padding: 0; 
-}
-html{
-    font-family: 'Roboto', sans-serif;
-}
-
-body{
-    background: #f0f0f5;
-    -webkit-font-smoothing: antialiased; 
-}
-/* A cor poderá ser repetida em formato de variável */
-
-/* Remove a linha de decoração sublinhado de forma global de todos os elementos <a> */
-a{
-    text-decoration: none;
-}
-
-h1, h2, h3, h4, h5, h6{
-    color: var(--title-color);
-    font-family: 'Ubuntu', sans-serif;
-}
-
 /*Background da página,largura e posição */
 #page-home{
     height: 100vh;
