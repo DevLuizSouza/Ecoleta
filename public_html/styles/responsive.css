@@ -31,6 +31,7 @@
     
 }
 
+/* Regras de responsividade no eixo Y */
 @media(max-height:760px){
     #page-home{
         background-position-y: 130px;
